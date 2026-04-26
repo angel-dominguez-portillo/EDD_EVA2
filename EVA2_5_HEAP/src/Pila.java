@@ -181,7 +181,7 @@ public class Pila {
 		            if (inicio != null)
 		                inicio.setPrevio(null);
 		            else
-		                fin = null; // la cola quedo vacia
+		                fin = null; 
 		            cont--;
 		            return va;
 		        } else {
